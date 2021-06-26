@@ -1,0 +1,13 @@
+.searchBox {
+  border: none;
+  border-bottom: 1px solid gray;
+  padding: 10px;
+  width: 200px;
+  margin-bottom: 30px;
+  line-height: 30px;
+  border-color: #95dada;
+}
+.searchBox:hover {
+  border: none;
+  border-radius: 5px;
+}

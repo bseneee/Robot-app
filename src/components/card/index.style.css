@@ -1,0 +1,14 @@
+.card_contents {
+  background-color: #95dada;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+  transition: transform 0.25ms ease-out;
+}
+
+.card_contents:hover {
+  transform: scale(1.05);
+}
